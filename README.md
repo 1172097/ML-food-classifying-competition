@@ -9,5 +9,5 @@ Much of this project focused on data engineering/cleaning and preparing the data
 
 
 📄 [Full Report](report.pdf)
-🗂 [Code for Model Training](report.pdf)
+🗂 [Code for Model Training](code.zip)
 
