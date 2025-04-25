@@ -6,3 +6,5 @@ This repository contains our submission for the semester-long project and compet
 A key constraint of the competition was that no external libraries were allowed in the final prediction script—all logic, from preprocessing to prediction, had to be implemented from scratch using only built-in Python functionality.
 
 Much of this project focused on data engineering/cleaning and preparing the data, followed by analyzing the performance of various model types and tweaking both the data and model parameters to improve accuracy.
+
+📄 [Full Report](report.pdf)
